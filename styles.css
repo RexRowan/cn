@@ -1,7 +1,9 @@
 body {
-    background-color: #0d0d0d;
-  }
-  
-  p, h1 {
-    color: #ffffcc;
-  }
+  margin: 20px;
+  padding: 20px;
+  background-color: #0d0d0d;
+}
+
+p, h1 {
+  color: #ffffcc;
+}
